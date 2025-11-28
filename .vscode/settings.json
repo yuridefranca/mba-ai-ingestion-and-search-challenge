@@ -1,0 +1,9 @@
+{
+	"[python]": {
+		"editor.tabSize": 2,
+		"editor.indentSize": 2,
+		"editor.insertSpaces": true
+	},
+	"python.formatting.provider": "none",
+	"editor.formatOnSave": true
+}
